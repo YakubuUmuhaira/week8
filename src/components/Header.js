@@ -14,7 +14,7 @@ const Header = () => {
   return (
     <Navbar className="bg-primary navbar-expand text-white">
       <Container>
-        <Navbar.Brand>NEVER GIVE UP</Navbar.Brand>
+        <Navbar.Brand>BEST STYLES IN TOWN</Navbar.Brand>
         <Nav>
           <Nav.Item>
             <Link to="/trainees" className="nav-link text-white">
